@@ -1,0 +1,20 @@
+{
+  "name": "se3040-lab03-node-githubflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Praneepa-git/se3040-lab03-node-githubflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Praneepa-git/se3040-lab03-node-githubflow/issues"
+  },
+  "homepage": "https://github.com/Praneepa-git/se3040-lab03-node-githubflow#readme"
+}
